@@ -61,4 +61,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ab2908/LEETCODE_DSA/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/ab2908/LEETCODE_DSA/tree/master/0792-binary-search) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ab2908/LEETCODE_DSA/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ab2908/LEETCODE_DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ab2908/LEETCODE_DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
