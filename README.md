@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ab2908/LEETCODE_DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ab2908/LEETCODE_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ab2908/LEETCODE_DSA/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0189-rotate-array) |
 | [0792-binary-search](https://github.com/ab2908/LEETCODE_DSA/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/ab2908/LEETCODE_DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ab2908/LEETCODE_DSA/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
 | ------- |
