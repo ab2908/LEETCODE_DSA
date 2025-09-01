@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ab2908/LEETCODE_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ab2908/LEETCODE_DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/ab2908/LEETCODE_DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/ab2908/LEETCODE_DSA/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/ab2908/LEETCODE_DSA/tree/master/0792-binary-search) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ab2908/LEETCODE_DSA/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/ab2908/LEETCODE_DSA/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -57,11 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ab2908/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ab2908/LEETCODE_DSA/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ab2908/LEETCODE_DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ab2908/LEETCODE_DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ab2908/LEETCODE_DSA/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ab2908/LEETCODE_DSA/tree/master/0020-valid-parentheses) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ab2908/LEETCODE_DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
