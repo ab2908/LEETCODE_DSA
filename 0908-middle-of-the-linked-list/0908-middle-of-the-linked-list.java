@@ -9,23 +9,13 @@
  * }
  */
 class Solution {
-    public ListNode middleNode(ListNode head) {
-        ListNode temp=head;
-        int len=0;
-        while(temp!=null){
-            len++;
-            temp=temp.next;
+    public ListNode middleNode(ListNode head){
+        ListNode slow=head;
+        ListNode fast=head;
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
         }
-        ListNode mid= findmid(head,len/2);
-        return mid;
+        return slow;
     }
-    public ListNode findmid(ListNode head,int k){
-        int c=0;
-        while(c<k){
-            head=head.next;
-            c++;
-        }
-     return head;
-    }
-
 }
