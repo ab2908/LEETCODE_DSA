@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ab2908/LEETCODE_DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/1013-fibonacci-number) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ab2908/LEETCODE_DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/ab2908/LEETCODE_DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ab2908/LEETCODE_DSA/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/1013-fibonacci-number) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ab2908/LEETCODE_DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ab2908/LEETCODE_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/ab2908/LEETCODE_DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/ab2908/LEETCODE_DSA/tree/master/0141-linked-list-cycle) |
