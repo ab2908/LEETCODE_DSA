@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ab2908/LEETCODE_DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ab2908/LEETCODE_DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ab2908/LEETCODE_DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ab2908/LEETCODE_DSA/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/ab2908/LEETCODE_DSA/tree/master/0792-binary-search) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ab2908/LEETCODE_DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ab2908/LEETCODE_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ab2908/LEETCODE_DSA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/ab2908/LEETCODE_DSA/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/ab2908/LEETCODE_DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ab2908/LEETCODE_DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
