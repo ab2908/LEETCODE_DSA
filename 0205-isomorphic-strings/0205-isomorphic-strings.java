@@ -1,6 +1,5 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
-
     int n=s.length();
     int[] m1=new int[256];
     int[] m2 = new int[256];
