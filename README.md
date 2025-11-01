@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ab2908/LEETCODE_DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/ab2908/LEETCODE_DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ab2908/LEETCODE_DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ab2908/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ab2908/LEETCODE_DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ab2908/LEETCODE_DSA/tree/master/0073-set-matrix-zeroes) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ab2908/LEETCODE_DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ab2908/LEETCODE_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/ab2908/LEETCODE_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ab2908/LEETCODE_DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ab2908/LEETCODE_DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ab2908/LEETCODE_DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ab2908/LEETCODE_DSA/tree/master/0169-majority-element) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/ab2908/LEETCODE_DSA/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/ab2908/LEETCODE_DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ab2908/LEETCODE_DSA/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/ab2908/LEETCODE_DSA/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/ab2908/LEETCODE_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ab2908/LEETCODE_DSA/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/ab2908/LEETCODE_DSA/tree/master/0424-longest-repeating-character-replacement) |
