@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ab2908/LEETCODE_DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ab2908/LEETCODE_DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/ab2908/LEETCODE_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/1236-n-th-tribonacci-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ab2908/LEETCODE_DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ab2908/LEETCODE_DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ab2908/LEETCODE_DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ab2908/LEETCODE_DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ab2908/LEETCODE_DSA/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/ab2908/LEETCODE_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0268-missing-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Greedy
