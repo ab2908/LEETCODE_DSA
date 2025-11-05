@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ab2908/LEETCODE_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/ab2908/LEETCODE_DSA/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/ab2908/LEETCODE_DSA/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/ab2908/LEETCODE_DSA/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ab2908/LEETCODE_DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/1646-kth-missing-positive-number) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ab2908/LEETCODE_DSA/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/ab2908/LEETCODE_DSA/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/ab2908/LEETCODE_DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
