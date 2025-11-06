@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ab2908/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ab2908/LEETCODE_DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ab2908/LEETCODE_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/1236-n-th-tribonacci-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ab2908/LEETCODE_DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ab2908/LEETCODE_DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ab2908/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ab2908/LEETCODE_DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ab2908/LEETCODE_DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ab2908/LEETCODE_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ab2908/LEETCODE_DSA/tree/master/0074-search-a-2d-matrix) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ab2908/LEETCODE_DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/ab2908/LEETCODE_DSA/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/ab2908/LEETCODE_DSA/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/ab2908/LEETCODE_DSA/tree/master/2032-largest-odd-number-in-string) |
