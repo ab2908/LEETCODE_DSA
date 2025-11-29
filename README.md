@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ab2908/LEETCODE_DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ab2908/LEETCODE_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/ab2908/LEETCODE_DSA/tree/master/2032-largest-odd-number-in-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ab2908/LEETCODE_DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Counting
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ab2908/LEETCODE_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0268-missing-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ab2908/LEETCODE_DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
 |  |
 | ------- |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ab2908/LEETCODE_DSA/tree/master/0067-add-binary) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ab2908/LEETCODE_DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
