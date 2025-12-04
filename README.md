@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ab2908/LEETCODE_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ab2908/LEETCODE_DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1013-fibonacci-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/1236-n-th-tribonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/ab2908/LEETCODE_DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ab2908/LEETCODE_DSA/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/ab2908/LEETCODE_DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ab2908/LEETCODE_DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ab2908/LEETCODE_DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/ab2908/LEETCODE_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1078-remove-outermost-parentheses](https://github.com/ab2908/LEETCODE_DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ab2908/LEETCODE_DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ab2908/LEETCODE_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ab2908/LEETCODE_DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ab2908/LEETCODE_DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
