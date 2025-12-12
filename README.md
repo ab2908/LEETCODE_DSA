@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ab2908/LEETCODE_DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/ab2908/LEETCODE_DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ab2908/LEETCODE_DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ab2908/LEETCODE_DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ab2908/LEETCODE_DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ab2908/LEETCODE_DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ab2908/LEETCODE_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/ab2908/LEETCODE_DSA/tree/master/0455-assign-cookies) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ab2908/LEETCODE_DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/ab2908/LEETCODE_DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ab2908/LEETCODE_DSA/tree/master/0907-koko-eating-bananas) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ab2908/LEETCODE_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ab2908/LEETCODE_DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ab2908/LEETCODE_DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
