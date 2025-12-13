@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ab2908/LEETCODE_DSA/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ab2908/LEETCODE_DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ab2908/LEETCODE_DSA/tree/master/0908-middle-of-the-linked-list) |
+| [1332-remove-palindromic-subsequences](https://github.com/ab2908/LEETCODE_DSA/tree/master/1332-remove-palindromic-subsequences) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ab2908/LEETCODE_DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ab2908/LEETCODE_DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/ab2908/LEETCODE_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1078-remove-outermost-parentheses](https://github.com/ab2908/LEETCODE_DSA/tree/master/1078-remove-outermost-parentheses) |
+| [1332-remove-palindromic-subsequences](https://github.com/ab2908/LEETCODE_DSA/tree/master/1332-remove-palindromic-subsequences) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ab2908/LEETCODE_DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ab2908/LEETCODE_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/ab2908/LEETCODE_DSA/tree/master/2032-largest-odd-number-in-string) |
