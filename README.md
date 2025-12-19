@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/ab2908/LEETCODE_DSA/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/ab2908/LEETCODE_DSA/tree/master/0907-koko-eating-bananas) |
 | [0976-largest-perimeter-triangle](https://github.com/ab2908/LEETCODE_DSA/tree/master/0976-largest-perimeter-triangle) |
+| [1089-duplicate-zeros](https://github.com/ab2908/LEETCODE_DSA/tree/master/1089-duplicate-zeros) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ab2908/LEETCODE_DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/ab2908/LEETCODE_DSA/tree/master/0908-middle-of-the-linked-list) |
+| [1089-duplicate-zeros](https://github.com/ab2908/LEETCODE_DSA/tree/master/1089-duplicate-zeros) |
 | [1332-remove-palindromic-subsequences](https://github.com/ab2908/LEETCODE_DSA/tree/master/1332-remove-palindromic-subsequences) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ab2908/LEETCODE_DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
