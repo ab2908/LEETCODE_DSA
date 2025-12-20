@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/ab2908/LEETCODE_DSA/tree/master/1089-duplicate-zeros) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ab2908/LEETCODE_DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/1646-kth-missing-positive-number) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/ab2908/LEETCODE_DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/ab2908/LEETCODE_DSA/tree/master/1089-duplicate-zeros) |
 | [1332-remove-palindromic-subsequences](https://github.com/ab2908/LEETCODE_DSA/tree/master/1332-remove-palindromic-subsequences) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ab2908/LEETCODE_DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ab2908/LEETCODE_DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ab2908/LEETCODE_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/ab2908/LEETCODE_DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ab2908/LEETCODE_DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Counting
 |  |
