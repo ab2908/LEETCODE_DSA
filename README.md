@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ab2908/LEETCODE_DSA/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ab2908/LEETCODE_DSA/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/ab2908/LEETCODE_DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ab2908/LEETCODE_DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ab2908/LEETCODE_DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ab2908/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ab2908/LEETCODE_DSA/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/ab2908/LEETCODE_DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ab2908/LEETCODE_DSA/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ab2908/LEETCODE_DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Union Find
