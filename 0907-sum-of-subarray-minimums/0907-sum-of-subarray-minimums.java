@@ -7,13 +7,12 @@ class Solution {
             while (!st.isEmpty()&& arr[st.peek()]>=arr[i]) {
                 st.pop();
             }
-              if(st.isEmpty()){
+            if(st.isEmpty()){
                 ans[i]=n;
             }
             else{
                 ans[i]=st.peek();
             }
-            ans[i]=!st.isEmpty()?st.peek():n;
             st.push(i);
         }
         return ans;
