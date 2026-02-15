@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ab2908/LEETCODE_DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/1646-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ab2908/LEETCODE_DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2104-sum-of-subarray-ranges](https://github.com/ab2908/LEETCODE_DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/ab2908/LEETCODE_DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/ab2908/LEETCODE_DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ab2908/LEETCODE_DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/ab2908/LEETCODE_DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ab2908/LEETCODE_DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## Design
 |  |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ab2908/LEETCODE_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/ab2908/LEETCODE_DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/ab2908/LEETCODE_DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ab2908/LEETCODE_DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## String Matching
 |  |
