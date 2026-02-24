@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ab2908/LEETCODE_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0796-rotate-string](https://github.com/ab2908/LEETCODE_DSA/tree/master/0796-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ab2908/LEETCODE_DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1332-remove-palindromic-subsequences](https://github.com/ab2908/LEETCODE_DSA/tree/master/1332-remove-palindromic-subsequences) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ab2908/LEETCODE_DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ab2908/LEETCODE_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/ab2908/LEETCODE_DSA/tree/master/0796-rotate-string) |
 ## Simulation
 |  |
 | ------- |
