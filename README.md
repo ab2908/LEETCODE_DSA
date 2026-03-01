@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/ab2908/LEETCODE_DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1013-fibonacci-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/1236-n-th-tribonacci-number) |
+| [1922-count-good-numbers](https://github.com/ab2908/LEETCODE_DSA/tree/master/1922-count-good-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/ab2908/LEETCODE_DSA/tree/master/2032-largest-odd-number-in-string) |
 | [3830-find-closest-person](https://github.com/ab2908/LEETCODE_DSA/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ab2908/LEETCODE_DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ab2908/LEETCODE_DSA/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/1013-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/ab2908/LEETCODE_DSA/tree/master/1922-count-good-numbers) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ab2908/LEETCODE_DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
