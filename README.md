@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/ab2908/LEETCODE_DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ab2908/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ab2908/LEETCODE_DSA/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/ab2908/LEETCODE_DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ab2908/LEETCODE_DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ab2908/LEETCODE_DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/ab2908/LEETCODE_DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ab2908/LEETCODE_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0287-find-the-duplicate-number) |
