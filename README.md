@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ab2908/LEETCODE_DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ab2908/LEETCODE_DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/ab2908/LEETCODE_DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ab2908/LEETCODE_DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0976-largest-perimeter-triangle](https://github.com/ab2908/LEETCODE_DSA/tree/master/0976-largest-perimeter-triangle) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ab2908/LEETCODE_DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/ab2908/LEETCODE_DSA/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/ab2908/LEETCODE_DSA/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/ab2908/LEETCODE_DSA/tree/master/0735-asteroid-collision) |
 ## Backtracking
 |  |
@@ -443,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ab2908/LEETCODE_DSA/tree/master/0222-count-complete-tree-nodes) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ab2908/LEETCODE_DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
