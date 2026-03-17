@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ab2908/LEETCODE_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/ab2908/LEETCODE_DSA/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/ab2908/LEETCODE_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ab2908/LEETCODE_DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ab2908/LEETCODE_DSA/tree/master/0485-max-consecutive-ones) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ab2908/LEETCODE_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/ab2908/LEETCODE_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ab2908/LEETCODE_DSA/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/ab2908/LEETCODE_DSA/tree/master/0976-largest-perimeter-triangle) |
