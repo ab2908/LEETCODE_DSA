@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ab2908/LEETCODE_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/ab2908/LEETCODE_DSA/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/ab2908/LEETCODE_DSA/tree/master/0792-binary-search) |
+| [0867-transpose-matrix](https://github.com/ab2908/LEETCODE_DSA/tree/master/0867-transpose-matrix) |
 | [0890-lemonade-change](https://github.com/ab2908/LEETCODE_DSA/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/ab2908/LEETCODE_DSA/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/ab2908/LEETCODE_DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ab2908/LEETCODE_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ab2908/LEETCODE_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/ab2908/LEETCODE_DSA/tree/master/0867-transpose-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Two Pointers
 |  |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ab2908/LEETCODE_DSA/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/ab2908/LEETCODE_DSA/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/ab2908/LEETCODE_DSA/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/ab2908/LEETCODE_DSA/tree/master/0867-transpose-matrix) |
 ## Backtracking
 |  |
 | ------- |
