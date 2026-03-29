@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/ab2908/LEETCODE_DSA/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ab2908/LEETCODE_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/ab2908/LEETCODE_DSA/tree/master/1089-duplicate-zeros) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ab2908/LEETCODE_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ab2908/LEETCODE_DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ab2908/LEETCODE_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/1646-kth-missing-positive-number) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ab2908/LEETCODE_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/ab2908/LEETCODE_DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ab2908/LEETCODE_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ab2908/LEETCODE_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ab2908/LEETCODE_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Matrix
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/ab2908/LEETCODE_DSA/tree/master/1089-duplicate-zeros) |
 | [1332-remove-palindromic-subsequences](https://github.com/ab2908/LEETCODE_DSA/tree/master/1332-remove-palindromic-subsequences) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ab2908/LEETCODE_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ab2908/LEETCODE_DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ab2908/LEETCODE_DSA/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/ab2908/LEETCODE_DSA/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ab2908/LEETCODE_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ab2908/LEETCODE_DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ab2908/LEETCODE_DSA/tree/master/0907-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ab2908/LEETCODE_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ab2908/LEETCODE_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ab2908/LEETCODE_DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ab2908/LEETCODE_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/1646-kth-missing-positive-number) |
