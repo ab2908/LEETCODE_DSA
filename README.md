@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ab2908/LEETCODE_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ab2908/LEETCODE_DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ab2908/LEETCODE_DSA/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/ab2908/LEETCODE_DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ab2908/LEETCODE_DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ab2908/LEETCODE_DSA/tree/master/0031-next-permutation) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ab2908/LEETCODE_DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ab2908/LEETCODE_DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ab2908/LEETCODE_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ab2908/LEETCODE_DSA/tree/master/0027-remove-element) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ab2908/LEETCODE_DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ab2908/LEETCODE_DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ab2908/LEETCODE_DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ab2908/LEETCODE_DSA/tree/master/0075-sort-colors) |
