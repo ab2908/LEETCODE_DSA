@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ab2908/LEETCODE_DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/ab2908/LEETCODE_DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ab2908/LEETCODE_DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ab2908/LEETCODE_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ab2908/LEETCODE_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/ab2908/LEETCODE_DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/ab2908/LEETCODE_DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/ab2908/LEETCODE_DSA/tree/master/0542-01-matrix) |
 | [0867-transpose-matrix](https://github.com/ab2908/LEETCODE_DSA/tree/master/0867-transpose-matrix) |
@@ -511,12 +513,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ab2908/LEETCODE_DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/ab2908/LEETCODE_DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ab2908/LEETCODE_DSA/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/ab2908/LEETCODE_DSA/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ab2908/LEETCODE_DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/ab2908/LEETCODE_DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ab2908/LEETCODE_DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ab2908/LEETCODE_DSA/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/ab2908/LEETCODE_DSA/tree/master/0994-rotting-oranges) |
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ab2908/LEETCODE_DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/ab2908/LEETCODE_DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ab2908/LEETCODE_DSA/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/ab2908/LEETCODE_DSA/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
