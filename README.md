@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ab2908/LEETCODE_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ab2908/LEETCODE_DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ab2908/LEETCODE_DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ab2908/LEETCODE_DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ab2908/LEETCODE_DSA/tree/master/0118-pascals-triangle) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ab2908/LEETCODE_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ab2908/LEETCODE_DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ab2908/LEETCODE_DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ab2908/LEETCODE_DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ab2908/LEETCODE_DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ab2908/LEETCODE_DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ab2908/LEETCODE_DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ab2908/LEETCODE_DSA/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/ab2908/LEETCODE_DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ab2908/LEETCODE_DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ab2908/LEETCODE_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0179-largest-number) |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ab2908/LEETCODE_DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ab2908/LEETCODE_DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ab2908/LEETCODE_DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ab2908/LEETCODE_DSA/tree/master/0079-word-search) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ab2908/LEETCODE_DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Union Find
 |  |
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ab2908/LEETCODE_DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ab2908/LEETCODE_DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ab2908/LEETCODE_DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ab2908/LEETCODE_DSA/tree/master/0207-course-schedule) |
