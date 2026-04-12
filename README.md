@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ab2908/LEETCODE_DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ab2908/LEETCODE_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/ab2908/LEETCODE_DSA/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/ab2908/LEETCODE_DSA/tree/master/0566-reshape-the-matrix) |
 | [0621-task-scheduler](https://github.com/ab2908/LEETCODE_DSA/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/ab2908/LEETCODE_DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/ab2908/LEETCODE_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ab2908/LEETCODE_DSA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/ab2908/LEETCODE_DSA/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/ab2908/LEETCODE_DSA/tree/master/0621-task-scheduler) |
 | [0976-largest-perimeter-triangle](https://github.com/ab2908/LEETCODE_DSA/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ab2908/LEETCODE_DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ab2908/LEETCODE_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ab2908/LEETCODE_DSA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/ab2908/LEETCODE_DSA/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/ab2908/LEETCODE_DSA/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/ab2908/LEETCODE_DSA/tree/master/0890-lemonade-change) |
@@ -569,4 +572,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ab2908/LEETCODE_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0210-course-schedule-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ab2908/LEETCODE_DSA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
