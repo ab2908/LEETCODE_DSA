@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ab2908/LEETCODE_DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ab2908/LEETCODE_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ab2908/LEETCODE_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ab2908/LEETCODE_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/ab2908/LEETCODE_DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ab2908/LEETCODE_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ab2908/LEETCODE_DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -520,12 +521,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ab2908/LEETCODE_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ab2908/LEETCODE_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ab2908/LEETCODE_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ab2908/LEETCODE_DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ab2908/LEETCODE_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ab2908/LEETCODE_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ab2908/LEETCODE_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ab2908/LEETCODE_DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Number Theory
 |  |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ab2908/LEETCODE_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/ab2908/LEETCODE_DSA/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ab2908/LEETCODE_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ab2908/LEETCODE_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/ab2908/LEETCODE_DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ab2908/LEETCODE_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0210-course-schedule-ii) |
