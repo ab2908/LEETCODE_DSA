@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ab2908/LEETCODE_DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ab2908/LEETCODE_DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ab2908/LEETCODE_DSA/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/ab2908/LEETCODE_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ab2908/LEETCODE_DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ab2908/LEETCODE_DSA/tree/master/0258-add-digits) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ab2908/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ab2908/LEETCODE_DSA/tree/master/0055-jump-game) |
+| [0096-unique-binary-search-trees](https://github.com/ab2908/LEETCODE_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/ab2908/LEETCODE_DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ab2908/LEETCODE_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ab2908/LEETCODE_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ab2908/LEETCODE_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/ab2908/LEETCODE_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/ab2908/LEETCODE_DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ab2908/LEETCODE_DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ab2908/LEETCODE_DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ab2908/LEETCODE_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/ab2908/LEETCODE_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/ab2908/LEETCODE_DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ab2908/LEETCODE_DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ab2908/LEETCODE_DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -624,4 +628,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ab2908/LEETCODE_DSA/tree/master/0561-array-partition) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/ab2908/LEETCODE_DSA/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
