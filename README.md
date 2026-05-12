@@ -558,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/ab2908/LEETCODE_DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ab2908/LEETCODE_DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ab2908/LEETCODE_DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/ab2908/LEETCODE_DSA/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ab2908/LEETCODE_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/ab2908/LEETCODE_DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ab2908/LEETCODE_DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ab2908/LEETCODE_DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/ab2908/LEETCODE_DSA/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ab2908/LEETCODE_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Number Theory
 |  |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/ab2908/LEETCODE_DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ab2908/LEETCODE_DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/ab2908/LEETCODE_DSA/tree/master/0785-is-graph-bipartite) |
+| [0938-range-sum-of-bst](https://github.com/ab2908/LEETCODE_DSA/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ab2908/LEETCODE_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/ab2908/LEETCODE_DSA/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
@@ -682,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/ab2908/LEETCODE_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ab2908/LEETCODE_DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ab2908/LEETCODE_DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/ab2908/LEETCODE_DSA/tree/master/0938-range-sum-of-bst) |
 ## Iterator
 |  |
 | ------- |
