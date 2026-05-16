@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/ab2908/LEETCODE_DSA/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/ab2908/LEETCODE_DSA/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/ab2908/LEETCODE_DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0912-sort-an-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/ab2908/LEETCODE_DSA/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/ab2908/LEETCODE_DSA/tree/master/0994-rotting-oranges) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/ab2908/LEETCODE_DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ab2908/LEETCODE_DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ab2908/LEETCODE_DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ab2908/LEETCODE_DSA/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/ab2908/LEETCODE_DSA/tree/master/0621-task-scheduler) |
+| [0912-sort-an-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/ab2908/LEETCODE_DSA/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ab2908/LEETCODE_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -533,10 +536,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ab2908/LEETCODE_DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0621-task-scheduler](https://github.com/ab2908/LEETCODE_DSA/tree/master/0621-task-scheduler) |
+| [0912-sort-an-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ab2908/LEETCODE_DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0912-sort-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -684,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ab2908/LEETCODE_DSA/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0912-sort-an-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -696,4 +702,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ab2908/LEETCODE_DSA/tree/master/0173-binary-search-tree-iterator) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
