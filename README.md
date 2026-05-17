@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/ab2908/LEETCODE_DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2784-check-if-array-is-good](https://github.com/ab2908/LEETCODE_DSA/tree/master/2784-check-if-array-is-good) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ab2908/LEETCODE_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/ab2908/LEETCODE_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ab2908/LEETCODE_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2784-check-if-array-is-good](https://github.com/ab2908/LEETCODE_DSA/tree/master/2784-check-if-array-is-good) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ab2908/LEETCODE_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/ab2908/LEETCODE_DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ab2908/LEETCODE_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ab2908/LEETCODE_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/ab2908/LEETCODE_DSA/tree/master/0621-task-scheduler) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ab2908/LEETCODE_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ab2908/LEETCODE_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -445,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ab2908/LEETCODE_DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ab2908/LEETCODE_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ab2908/LEETCODE_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -542,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ab2908/LEETCODE_DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ab2908/LEETCODE_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -710,4 +716,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0912-sort-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ab2908/LEETCODE_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
