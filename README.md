@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ab2908/LEETCODE_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/ab2908/LEETCODE_DSA/tree/master/1020-number-of-enclaves) |
 | [1089-duplicate-zeros](https://github.com/ab2908/LEETCODE_DSA/tree/master/1089-duplicate-zeros) |
+| [1329-sort-the-matrix-diagonally](https://github.com/ab2908/LEETCODE_DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ab2908/LEETCODE_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ab2908/LEETCODE_DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ab2908/LEETCODE_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ab2908/LEETCODE_DSA/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/ab2908/LEETCODE_DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ab2908/LEETCODE_DSA/tree/master/1020-number-of-enclaves) |
+| [1329-sort-the-matrix-diagonally](https://github.com/ab2908/LEETCODE_DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1901-find-a-peak-element-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Two Pointers
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/ab2908/LEETCODE_DSA/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ab2908/LEETCODE_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1329-sort-the-matrix-diagonally](https://github.com/ab2908/LEETCODE_DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ab2908/LEETCODE_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ab2908/LEETCODE_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2784-check-if-array-is-good](https://github.com/ab2908/LEETCODE_DSA/tree/master/2784-check-if-array-is-good) |
