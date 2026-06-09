@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ab2908/LEETCODE_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/ab2908/LEETCODE_DSA/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/ab2908/LEETCODE_DSA/tree/master/0566-reshape-the-matrix) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ab2908/LEETCODE_DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/ab2908/LEETCODE_DSA/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/ab2908/LEETCODE_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/ab2908/LEETCODE_DSA/tree/master/0735-asteroid-collision) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ab2908/LEETCODE_DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ab2908/LEETCODE_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ab2908/LEETCODE_DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/ab2908/LEETCODE_DSA/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ab2908/LEETCODE_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ab2908/LEETCODE_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ab2908/LEETCODE_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ab2908/LEETCODE_DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/ab2908/LEETCODE_DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/ab2908/LEETCODE_DSA/tree/master/0796-rotate-string) |
