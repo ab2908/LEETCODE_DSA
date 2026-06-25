@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ab2908/LEETCODE_DSA/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/ab2908/LEETCODE_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ab2908/LEETCODE_DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ab2908/LEETCODE_DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ab2908/LEETCODE_DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0268-missing-number) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/ab2908/LEETCODE_DSA/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/ab2908/LEETCODE_DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ab2908/LEETCODE_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ab2908/LEETCODE_DSA/tree/master/0217-contains-duplicate) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ab2908/LEETCODE_DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ab2908/LEETCODE_DSA/tree/master/0258-add-digits) |
 ## Interactive
 |  |
@@ -788,4 +791,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ab2908/LEETCODE_DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
