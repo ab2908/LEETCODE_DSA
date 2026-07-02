@@ -29,9 +29,11 @@ class BSTIterator {
         return !stack.isEmpty();
     }
     public void pushAll(TreeNode node) {
-        for (; node != null; stack.push(node), node=node.left);
+        while(node!=null){
+            stack.push(node);
+            node=node.left;
+        }
     }
-
 }
 
 /**
