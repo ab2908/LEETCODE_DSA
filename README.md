@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ab2908/LEETCODE_DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/ab2908/LEETCODE_DSA/tree/master/1922-count-good-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/ab2908/LEETCODE_DSA/tree/master/2032-largest-odd-number-in-string) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ab2908/LEETCODE_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3830-find-closest-person](https://github.com/ab2908/LEETCODE_DSA/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/ab2908/LEETCODE_DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ab2908/LEETCODE_DSA/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ab2908/LEETCODE_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Interactive
 |  |
 | ------- |
