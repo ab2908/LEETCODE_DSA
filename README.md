@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/ab2908/LEETCODE_DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ab2908/LEETCODE_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ab2908/LEETCODE_DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ab2908/LEETCODE_DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ab2908/LEETCODE_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/1646-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ab2908/LEETCODE_DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ab2908/LEETCODE_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/ab2908/LEETCODE_DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ab2908/LEETCODE_DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ab2908/LEETCODE_DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ab2908/LEETCODE_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ab2908/LEETCODE_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/ab2908/LEETCODE_DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ab2908/LEETCODE_DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ab2908/LEETCODE_DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ab2908/LEETCODE_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ab2908/LEETCODE_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Stack
