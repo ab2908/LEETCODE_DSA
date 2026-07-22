@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ab2908/LEETCODE_DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ab2908/LEETCODE_DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ab2908/LEETCODE_DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ab2908/LEETCODE_DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ab2908/LEETCODE_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/ab2908/LEETCODE_DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ab2908/LEETCODE_DSA/tree/master/0204-count-primes) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ab2908/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ab2908/LEETCODE_DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/ab2908/LEETCODE_DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ab2908/LEETCODE_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/ab2908/LEETCODE_DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ab2908/LEETCODE_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ab2908/LEETCODE_DSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/1236-n-th-tribonacci-number) |
 ## Array
