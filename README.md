@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ab2908/LEETCODE_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/ab2908/LEETCODE_DSA/tree/master/1020-number-of-enclaves) |
 | [1089-duplicate-zeros](https://github.com/ab2908/LEETCODE_DSA/tree/master/1089-duplicate-zeros) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ab2908/LEETCODE_DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ab2908/LEETCODE_DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1329-sort-the-matrix-diagonally](https://github.com/ab2908/LEETCODE_DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ab2908/LEETCODE_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ab2908/LEETCODE_DSA/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/ab2908/LEETCODE_DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ab2908/LEETCODE_DSA/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ab2908/LEETCODE_DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1329-sort-the-matrix-diagonally](https://github.com/ab2908/LEETCODE_DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1901-find-a-peak-element-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Two Pointers
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ab2908/LEETCODE_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/ab2908/LEETCODE_DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ab2908/LEETCODE_DSA/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ab2908/LEETCODE_DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ab2908/LEETCODE_DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
