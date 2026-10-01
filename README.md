@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ab2908/LEETCODE_DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/ab2908/LEETCODE_DSA/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/0507-perfect-number) |
+| [0781-rabbits-in-forest](https://github.com/ab2908/LEETCODE_DSA/tree/master/0781-rabbits-in-forest) |
 | [0976-largest-perimeter-triangle](https://github.com/ab2908/LEETCODE_DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1013-fibonacci-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ab2908/LEETCODE_DSA/tree/master/1236-n-th-tribonacci-number) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ab2908/LEETCODE_DSA/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/ab2908/LEETCODE_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/ab2908/LEETCODE_DSA/tree/master/0735-asteroid-collision) |
+| [0781-rabbits-in-forest](https://github.com/ab2908/LEETCODE_DSA/tree/master/0781-rabbits-in-forest) |
 | [0792-binary-search](https://github.com/ab2908/LEETCODE_DSA/tree/master/0792-binary-search) |
 | [0867-transpose-matrix](https://github.com/ab2908/LEETCODE_DSA/tree/master/0867-transpose-matrix) |
 | [0890-lemonade-change](https://github.com/ab2908/LEETCODE_DSA/tree/master/0890-lemonade-change) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ab2908/LEETCODE_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ab2908/LEETCODE_DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/ab2908/LEETCODE_DSA/tree/master/0621-task-scheduler) |
+| [0781-rabbits-in-forest](https://github.com/ab2908/LEETCODE_DSA/tree/master/0781-rabbits-in-forest) |
 | [0930-binary-subarrays-with-sum](https://github.com/ab2908/LEETCODE_DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ab2908/LEETCODE_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ab2908/LEETCODE_DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ab2908/LEETCODE_DSA/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/ab2908/LEETCODE_DSA/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/ab2908/LEETCODE_DSA/tree/master/0680-valid-palindrome-ii) |
+| [0781-rabbits-in-forest](https://github.com/ab2908/LEETCODE_DSA/tree/master/0781-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/ab2908/LEETCODE_DSA/tree/master/0890-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/ab2908/LEETCODE_DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ab2908/LEETCODE_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
